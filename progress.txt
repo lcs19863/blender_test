@@ -1,0 +1,2 @@
+error still not fixed,cannot move weapon to right position in edit mode,cn't figure out why
+problem solved
